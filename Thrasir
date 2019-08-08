@@ -1,14 +1,14 @@
 /*
 Theme Owned and Made by Ace
   
-Background Img: https://lh3.googleusercontent.com/8ggEn-Box-P-ZetFooHijJD3E9JeMnG04gTR8HXD8_7DEe5JZNSTZV7ix5koSZtaioSa0tvZQ9hRRkasis6496eXr5lwtHIC6fJoohchESpy20kcxTu7h4JhXONC2vgn638L_Kl179935990V7EQBvXUyCohuLkQqsy7n8nxNGC67txZGyxyNyUHm5cbofWmIWj-xQQLD6fHiHU5APMh_kth9vJAt9AiDyLL3A-7NA1PQCHaZQB16JyDIK6WvsMxtHE2XsKi4V1JBiqGe1O1fK5z0_vHUBsNehiV_klDOXIRDXuTwroxGr1BjZG5RYOkiai33C_PuGSZwaSv1NM7l3p-fWrfuu55-dgDMTiOehe0dA05rEI3HKKuJvQOylUit0xZHW0xzREU4Wfdb31UqsajNoLNY_rydw8HfDgTTKQdxYtNmNFZQN93E5fYEI2_2AOzo7fak2AsonCEE3g-S_2ad7V31iHhqe0ngZKp3gpXLEYigfcBvl3Hp2wkyQLThrrvpp-vR5QG6ybmLNEpRk5RHcXf6tJJwYo9Gu2krTv6jVK5-GpgJkI9QSVEAfcR23G2qtbRlYVlw_kJZudEhD7WRYUdFY5lmukSBqV891tZwNsDERPxO69fNV1dj5eOyu-o1DckGUkr6J2FLeom2dHODvKU24E=w1723-h969-no
+Background Img: https://i.imgur.com/4zxUcTZ.png
 Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
 
 The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://lh3.googleusercontent.com/8ggEn-Box-P-ZetFooHijJD3E9JeMnG04gTR8HXD8_7DEe5JZNSTZV7ix5koSZtaioSa0tvZQ9hRRkasis6496eXr5lwtHIC6fJoohchESpy20kcxTu7h4JhXONC2vgn638L_Kl179935990V7EQBvXUyCohuLkQqsy7n8nxNGC67txZGyxyNyUHm5cbofWmIWj-xQQLD6fHiHU5APMh_kth9vJAt9AiDyLL3A-7NA1PQCHaZQB16JyDIK6WvsMxtHE2XsKi4V1JBiqGe1O1fK5z0_vHUBsNehiV_klDOXIRDXuTwroxGr1BjZG5RYOkiai33C_PuGSZwaSv1NM7l3p-fWrfuu55-dgDMTiOehe0dA05rEI3HKKuJvQOylUit0xZHW0xzREU4Wfdb31UqsajNoLNY_rydw8HfDgTTKQdxYtNmNFZQN93E5fYEI2_2AOzo7fak2AsonCEE3g-S_2ad7V31iHhqe0ngZKp3gpXLEYigfcBvl3Hp2wkyQLThrrvpp-vR5QG6ybmLNEpRk5RHcXf6tJJwYo9Gu2krTv6jVK5-GpgJkI9QSVEAfcR23G2qtbRlYVlw_kJZudEhD7WRYUdFY5lmukSBqV891tZwNsDERPxO69fNV1dj5eOyu-o1DckGUkr6J2FLeom2dHODvKU24E=w1723-h969-no');
+    --background: url('https://i.imgur.com/4zxUcTZ.png');
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
